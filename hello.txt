@@ -1,4 +1,4 @@
 hello! git
 
 テストだよ！
-branch_aを新しく作ってbranch_aで作業中。
+branch_aの作業が完了した。
